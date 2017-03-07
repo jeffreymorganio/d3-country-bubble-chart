@@ -4,36 +4,36 @@ This project demonstrates various ways in which [D3](https://d3js.org/)'s [force
 
 Watch the [D3 Country Bubble Chart](https://www.youtube.com/watch?v=ChniIfhvw-M) video on YouTube.
 
-<div style="display: flex">
-  <div style="flex: 1">
-    <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-combine-colors.png"><img style="width: 100%" src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-combine-colors.png" alt="Combined/Colors"></a>
-  </div>
-  <div style="flex: 1">
-    <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-country-centers-colors.png"><img style="width: 100%" src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-country-centers-colors.png" alt="Country Centers/Colors"></a>
-  </div>
-  <div style="flex: 1">
-    <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-continents-colors.png"><img style="width: 100%" src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-continents-colors.png" alt="Continents/Colors"></a>
-  </div>
-  <div style="flex: 1">
-    <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-population-colors.png"><img style="width: 100%" src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-population-colors.png" alt="Population/Colors"></a>
-  </div>
+<div>
+  <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-combine-colors.png"><img src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-combine-colors.png" alt="Combined/Colors"></a>
 </div>
 
-<br>
+<div>
+  <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-country-centers-colors.png"><img src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-country-centers-colors.png" alt="Country Centers/Colors"></a>
+</div>
 
-<div style="display: flex">
-  <div style="flex: 1">
-    <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-combine-flags.png"><img style="width: 100%" src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-combine-flags.png" alt="Combined/Flags"></a>
-  </div>
-  <div style="flex: 1">
-    <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-country-centers-flags.png"><img style="width: 100%" src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-country-centers-flags.png" alt="Country Centers/Flags"></a>
-  </div>
-  <div style="flex: 1">
-    <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-continents-flags.png"><img style="width: 100%" src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-continents-flags.png" alt="Continents/Flags"></a>
-  </div>
-  <div style="flex: 1">
-    <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-population-flags.png"><img style="width: 100%" src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-population-flags.png" alt="Population/Flags"></a>
-  </div>
+<div>
+  <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-continents-colors.png"><img src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-continents-colors.png" alt="Continents/Colors"></a>
+</div>
+
+<div>
+  <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-population-colors.png"><img src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-population-colors.png" alt="Population/Colors"></a>
+</div>
+
+<div>
+  <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-combine-flags.png"><img src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-combine-flags.png" alt="Combined/Flags"></a>
+</div>
+
+<div>
+  <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-country-centers-flags.png"><img src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-country-centers-flags.png" alt="Country Centers/Flags"></a>
+</div>
+
+<div>
+  <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-continents-flags.png"><img src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-continents-flags.png" alt="Continents/Flags"></a>
+</div>
+
+<div>
+  <a href="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-population-flags.png"><img src="http://usabilityetc.com/assets/gallery/d3-country-bubble-chart/d3-country-bubble-chart-population-flags.png" alt="Population/Flags"></a>
 </div>
 
 ## Data
