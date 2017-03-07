@@ -44,7 +44,7 @@ The population and country center longitude and latitude data for each country i
 
 One set of radio buttons control whether each circle is filled with a color or the flag of the country. The color represents the continent of the country and is chosen from the [schemeCategory10](https://github.com/d3/d3-scale/blob/master/README.md#schemeCategory10) palette using an [ordinal scale](https://github.com/d3/d3-scale/blob/master/README.md#ordinal-scales).
 
-Each flag is rendered as an SVG image and is stored in the `flags` folder. The flags are from the [googlei18n/region-flags package](https://github.com/googlei18n/region-flags/tree/gh-pages/svg).
+Each flag is rendered as an SVG image and is stored in the `flags` folder. The flags are from the [googlei18n/region-flags package](https://github.com/googlei18n/region-flags/tree/gh-pages/svg) (see [COPYING](https://github.com/googlei18n/region-flags/blob/gh-pages/COPYING)).
 
 ## Forces
 
@@ -56,9 +56,9 @@ Another set of radio buttons controls the forces that determine the location of 
   <dt>Continents</dt>
   <dd>Groups the circles by continent and pushes the groups towards the four corners and the center.</dd>
   <dt>Country Centers</dt>
-  <dd>Uses the [Equirectangular](https://github.com/d3/d3-geo#geoEquirectangular) projection to push the center of the circles towards the center of the countries they represent.</dd>
+  <dd>Uses the <a href="https://github.com/d3/d3-geo#geoEquirectangular">Equirectangular</a> projection to push the center of the circles towards the center of the countries they represent.</dd>
   <dt>Population</dt>
-  <dd>Groups the circles by continent and sorts them according to population on a [log scale](https://github.com/d3/d3-scale#scaleLog).</dd>
+  <dd>Groups the circles by continent and sorts them according to population on a <a href="https://github.com/d3/d3-scale#scaleLog">log scale</a>.</dd>
 </dl>
 
 ## Axes
