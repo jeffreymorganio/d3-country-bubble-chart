@@ -1,0 +1,40 @@
+html, body {
+  margin: 10px;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#controls {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+input[type="radio"] {
+  margin-top: -1px;
+  vertical-align: middle;
+}
+
+span:nth-child(2) {
+  margin-left: 20px;
+}
+
+#country-info {
+  color: #666;
+  font-size: 28px;
+  position: absolute;
+  top: 60px;
+  left: 40px;
+}
+
+svg {
+  border: 1px solid #ddd;
+}
+
+circle {
+  stroke: white;
+  stroke-width: 1.5;
+}
+
+.continent-key-element text {
+  fill: white;
+}
