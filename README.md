@@ -2,7 +2,7 @@
 
 This project demonstrates various ways in which [D3](https://d3js.org/)'s [forces simulation](https://github.com/d3/d3-force) can lay out elements. Each element is a circle that represents a country. The area of each circle is proportional to the [UN's 2015 population estimate](https://esa.un.org/unpd/wpp/Download/Standard/Population/) of the country. Each circle is filled with a color or the flag of the country.
 
-Watch the [D3 Country Bubble Chart](https://www.youtube.com/watch?v=ChniIfhvw-M) video on YouTube.
+Watch the [D3 Country Bubble Chart](https://www.youtube.com/watch?v=ChniIfhvw-M) video on YouTube. Try the [live demo](https://usabilityetc.github.io/demos/d3-country-bubble-chart).
 
 <div>
   <a href="http://usabilityetc.github.io/assets/d3-country-bubble-chart/d3-country-bubble-chart-combine-colors.png"><img src="http://usabilityetc.github.io/assets/d3-country-bubble-chart/d3-country-bubble-chart-combine-colors.png" alt="Combined/Colors"></a>
