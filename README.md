@@ -63,4 +63,4 @@ Another set of radio buttons controls the forces that determine the location of 
 
 ## Axes
 
-This project also demonstrates how to animate D3 [axes](https://github.com/d3/d3-axis) on and off the screen when selecting and de-selecing the Population circle grouping. Additionally, the continent color key demonstrates how to create a color key.
+This project also demonstrates how to animate D3 [axes](https://github.com/d3/d3-axis) on and off the screen when selecting and de-selecting the Population circle grouping. Additionally, the continent color key demonstrates how to create a color key.
