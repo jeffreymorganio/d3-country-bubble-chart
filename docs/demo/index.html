@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="style.css" rel="stylesheet">
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+  <script src="script.js"></script>
+  <title>D3 Country Bubble Chart</title>
+</head>
+<body>
+
+  <h1>D3 Country Bubble Chart</h1>
+
+  <div id="controls">
+    <span>
+      <label><input id="combine" type="radio" name="grouping" value="combine" checked>Combine</label>
+      <label><input id="continents" type="radio" name="grouping" value="continents">Continents</label>
+      <label><input id="country-centers" type="radio" name="grouping" value="country-centers">Country Centers</label>
+      <label><input id="population" type="radio" name="grouping" value="population">Population</label>
+    </span>
+    <span>
+      <label><input id="colors" type="radio" name="fill" value="colors" checked>Colors</label>
+      <label><input id="flags" type="radio" name="fill" value="flags">Flags</label>
+    </span>
+  </div>
+  <div id="country-info"></div>
+  <div id="bubble-chart"></div>
+
+  <h2><a href="https://github.com/UsabilityEtc/d3-country-bubble-chart">Source</a></h2>
+
+  <script>
+    d3.queue()
+      .defer(d3.csv, "countries.csv")
+      .defer(d3.json, "continent-names.json")
+      .await(createBubbleChart);
+  </script>
+
+</body>
+</html>
